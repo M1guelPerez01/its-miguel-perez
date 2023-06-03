@@ -35,6 +35,12 @@ body {
   font-size: 28px;
 }
 
+.discount-code {
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+}
+
 .links {
   text-align: center;
   margin-top: 20px;
